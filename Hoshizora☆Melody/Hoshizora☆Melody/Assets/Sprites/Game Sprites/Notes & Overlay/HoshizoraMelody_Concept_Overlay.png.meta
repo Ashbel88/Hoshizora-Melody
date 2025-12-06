@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 4ade9d371392d3e46b93ded660def779
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6552339962082578536
+    second: HoshizoraMelody_Concept_Overlay_0
+  - first:
+      213: 4219363084284101908
+    second: HoshizoraMelody_Concept_Overlay_1
+  - first:
+      213: 1422040331578352095
+    second: HoshizoraMelody_Concept_Overlay_2
+  - first:
+      213: -3380818956306701290
+    second: HoshizoraMelody_Concept_Overlay_3
+  - first:
+      213: -668347710463237145
+    second: HoshizoraMelody_Concept_Overlay_4
+  - first:
+      213: -1027319743516517187
+    second: HoshizoraMelody_Concept_Overlay_5
+  - first:
+      213: 4542294492089938949
+    second: HoshizoraMelody_Concept_Overlay_6
+  - first:
+      213: 6513189124012941592
+    second: HoshizoraMelody_Concept_Overlay_7
+  - first:
+      213: -4034422897857086718
+    second: HoshizoraMelody_Concept_Overlay_8
+  - first:
+      213: -3341520525430863751
+    second: HoshizoraMelody_Concept_Overlay_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HoshizoraMelody_Concept_Overlay_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1444
+        width: 4000
+        height: 806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860578fca769eea50800000000000000
+      internalID: 6552339962082578536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoshizoraMelody_Concept_Overlay_1
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 934
+        width: 524
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4158629be503e8a30800000000000000
+      internalID: 4219363084284101908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoshizoraMelody_Concept_Overlay_2
+      rect:
+        serializedVersion: 2
+        x: 3113
+        y: 934
+        width: 524
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1a104b52a1cb310800000000000000
+      internalID: 1422040331578352095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoshizoraMelody_Concept_Overlay_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 611
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614ae63521be411d0800000000000000
+      internalID: -3380818956306701290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoshizoraMelody_Concept_Overlay_4
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 455
+        width: 524
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3a4636c4d89b6f0800000000000000
+      internalID: -668347710463237145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoshizoraMelody_Concept_Overlay_5
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 121
+        width: 524
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcd3f0e22a3eb1f0800000000000000
+      internalID: -1027319743516517187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoshizoraMelody_Concept_Overlay_6
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 13
+        width: 524
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504fb3246c8790f30800000000000000
+      internalID: 4542294492089938949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoshizoraMelody_Concept_Overlay_7
+      rect:
+        serializedVersion: 2
+        x: 2309
+        y: 121
+        width: 524
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811aabbfffe736a50800000000000000
+      internalID: 6513189124012941592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoshizoraMelody_Concept_Overlay_8
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 455
+        width: 524
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20bb68befb9d208c0800000000000000
+      internalID: -4034422897857086718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoshizoraMelody_Concept_Overlay_9
+      rect:
+        serializedVersion: 2
+        x: 3389
+        y: 0
+        width: 611
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978440849c880a1d0800000000000000
+      internalID: -3341520525430863751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HoshizoraMelody_Concept_Overlay_0: 6552339962082578536
+      HoshizoraMelody_Concept_Overlay_1: 4219363084284101908
+      HoshizoraMelody_Concept_Overlay_2: 1422040331578352095
+      HoshizoraMelody_Concept_Overlay_3: -3380818956306701290
+      HoshizoraMelody_Concept_Overlay_4: -668347710463237145
+      HoshizoraMelody_Concept_Overlay_5: -1027319743516517187
+      HoshizoraMelody_Concept_Overlay_6: 4542294492089938949
+      HoshizoraMelody_Concept_Overlay_7: 6513189124012941592
+      HoshizoraMelody_Concept_Overlay_8: -4034422897857086718
+      HoshizoraMelody_Concept_Overlay_9: -3341520525430863751
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
