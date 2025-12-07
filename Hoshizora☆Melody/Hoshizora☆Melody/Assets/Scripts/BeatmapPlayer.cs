@@ -57,7 +57,7 @@ public class BeatmapPlayer : MonoBehaviour
         nextNoteIndex = 0;
         enabled = true;
 
-        Debug.Log("BeatmapPlayer started playback CLEAN.");
+        Debug.Log("BeatmapPlayer started playback");
     }
 
     public void SetBeatmapAndStart(BeatmapData loadedBeatmap)

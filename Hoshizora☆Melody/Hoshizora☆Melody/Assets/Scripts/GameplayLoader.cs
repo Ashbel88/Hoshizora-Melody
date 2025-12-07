@@ -81,8 +81,9 @@ public class GameplayLoader : MonoBehaviour
                 yield return null;
         }
 
-        beatmapPlayer.StartPlaybackWhenReady();
+        
         audioManager.Play();
         videoPlayer.Play();
+        beatmapPlayer.StartPlaybackWhenReady();
     }
 }

@@ -56,6 +56,7 @@ public class PlayerManager : MonoBehaviour
             case "PERFECT":
                 perfectCount++;
                 combo++;
+                UpdateMaxCombo();
                 Heal(perfectHeal);
                 score += window.scoreValue;
                 UpdateScore(score);
@@ -64,6 +65,7 @@ public class PlayerManager : MonoBehaviour
             case "GREAT":
                 greatCount++;
                 combo++;
+                UpdateMaxCombo();
                 Heal(greatHeal);
                 score += window.scoreValue;
                 UpdateScore(score);
@@ -72,6 +74,7 @@ public class PlayerManager : MonoBehaviour
             case "GOOD":
                 goodCount++;
                 combo++;
+                UpdateMaxCombo();
                 Heal(goodHeal);
                 score += window.scoreValue;
                 UpdateScore(score);
@@ -140,6 +143,12 @@ public class PlayerManager : MonoBehaviour
         ComboUI.Instance.UpdateCombo(combo);
     }
 
+    private void UpdateMaxCombo()
+    {
+        if (combo > MaxCombo)
+            MaxCombo = combo;
+    }
+
     private void ResetStats() 
     {
         score = 0;
@@ -151,5 +160,5 @@ public class PlayerManager : MonoBehaviour
         goodCount = 0;
         badCount = 0;
         missCount = 0;
-}
+    }
 }
